@@ -1,0 +1,9 @@
+<video>
+Generate only the enriched traffic accident analysis report for this video.
+
+Requirements:
+- Output one report paragraph only.
+- Do not output JSON.
+- Do not output field names, bullet points, markdown, or extra explanation.
+- Do not output video_summary.
+- Describe road scene, lighting/weather/traffic context when visible, ego motion, other participant motion, trigger/cause, impact or avoidance process, outcome, and uncertainty if details are unclear.

@@ -1,0 +1,10 @@
+modelscope
+accelerate
+peft
+deepspeed
+ms-swift>=4.0
+transformers>=4.57
+qwen_vl_utils>=0.0.14
+torchcodec
+decord
+tqdm
